@@ -1,0 +1,5 @@
+patient_id,name,age,city,visit_date
+1,Alice,32.0,New York,2024-01-10
+2,Bob,,London,2024-01-12
+2,bob,40.0,London,2024-01-12
+3,Carol,28.0,Paris,2024-02-05
